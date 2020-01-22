@@ -62,3 +62,6 @@ typings/
 
 # VSCode settings
 .vscode/
+
+# ESLint settings
+.eslintrc.js
